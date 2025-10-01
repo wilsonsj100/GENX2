@@ -1,0 +1,144 @@
+Inj.	Injection Name	Type 	Ret.Time	Amount	Rel.Area 	Area	Height
+No.	Selected Peak:		min	µg/mL	%	µS*min	µS
+			CD	CD	CD	CD	CD
+			IC-SO4	IC-SO4	IC-SO4	IC-SO4	IC-SO4
+1	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+2	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+3	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+4	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+5	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+6	Standard 1	Calibration Standard	4.540 	0.3420 	5.27 	0.2884 	2.20 
+7	Standard 2	Calibration Standard	4.530 	0.9674 	6.99 	0.8158 	5.72 
+8	Standard 3	Calibration Standard	4.527 	1.9207 	6.82 	1.6198 	10.73 
+9	Standard 4	Calibration Standard	4.483 	10.5536 	7.19 	8.9004 	54.03 
+10	Standard 5	Calibration Standard	4.447 	19.6472 	6.63 	16.5696 	93.89 
+11	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+12	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+13	               81_GX2_50042	Unknown	4.497 	761.8497 	7.95 	5.8410 	36.36 
+14	               82_GX2_50263	Unknown	4.490 	932.6471 	8.49 	7.1505 	44.03 
+15	               83_GX2_50157	Unknown	4.510 	565.6600 	8.95 	4.3369 	27.46 
+16	               84_GX2_50075	Unknown	4.497 	804.3932 	8.64 	6.1672 	38.32 
+17	               85_GX2_50204	Unknown	4.487 	1024.0760 	8.82 	7.8515 	48.11 
+18	               86_GX2_50146	Unknown	4.490 	932.8782 	8.81 	7.1523 	44.12 
+19	               87_GX2_50017	Unknown	4.497 	819.7922 	9.71 	6.2853 	39.06 
+20	               88_GX2_50272	Unknown	4.527 	103.2089 	1.80 	0.7913 	5.24 
+21	               89_GX2_50191	Unknown	4.490 	925.3378 	8.91 	7.0945 	43.79 
+22	               89_GX2_50191_DUP	Unknown	4.487 	940.2979 	8.73 	7.2092 	44.40 
+23	               90_GX2_50003	Unknown	4.507 	562.1631 	9.48 	4.3100 	27.24 
+24	               90_GX2_50003_SPK	Spiked	4.493 	739.8396 	12.78 	5.6723 	35.46 
+25	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+26	Standard 1	Check Standard	4.537 	0.4114 	5.97 	0.3470 	2.43 
+27	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+28	               91_GX2_50051	Unknown	4.500 	702.6575 	13.64 	5.3872 	33.70 
+29	               92_GX2_50147	Unknown	4.523 	185.2243 	2.98 	1.4201 	9.22 
+30	               93_GX2_50245	Unknown	4.500 	694.8147 	7.13 	5.3271 	33.42 
+31	               94_GX2_50197	Unknown	4.497 	734.8366 	5.48 	5.6339 	35.24 
+32	               95_GX2_50274	Unknown	4.500 	621.1325 	6.40 	4.7622 	29.98 
+33	               96_GX2_50117	Unknown	4.493 	827.3177 	11.70 	6.3430 	39.43 
+34	               97_GX2_50193	Unknown	4.497 	680.8520 	5.53 	5.2200 	32.82 
+35	               98_GX2_50086	Unknown	4.493 	765.9466 	8.82 	5.8724 	36.61 
+36	               99_GX2_50188	Unknown	5.043 	3.9483 	0.08 	0.0303 	0.17 
+37	               99_GX2_50188_DUP	Unknown	5.047 	3.7267 	0.08 	0.0286 	0.17 
+38	               100_GX2_50164	Unknown	4.523 	190.1243 	2.93 	1.4577 	9.48 
+39	               100_GX2_50164_SPIKE	Spiked	4.510 	391.8547 	5.88 	3.0043 	19.20 
+40	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+41	Standard 1	Check Standard	4.530 	0.4211 	6.13 	0.3552 	2.48 
+42	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+43	               101_GX2_50205	Unknown	4.490 	948.0264 	7.39 	7.2684 	44.79 
+44	               102_GX2_50180	Unknown	4.493 	670.3330 	7.45 	5.1394 	32.28 
+45	               103_GX2_50210	Unknown	4.493 	818.9995 	8.22 	6.2792 	39.04 
+46	               104_GX2_50282	Unknown	4.497 	663.4979 	7.30 	5.0870 	32.04 
+47	               105_GX2_50049	Unknown	4.500 	617.6114 	9.41 	4.7352 	29.86 
+48	               106_GX2_50126	Unknown	4.490 	917.0202 	8.79 	7.0307 	43.38 
+49	               107_GX2_50033	Unknown	4.490 	788.2496 	10.00 	6.0434 	37.68 
+50	               108_GX2_50252	Unknown	4.483 	990.6953 	8.44 	7.5956 	46.72 
+51	               109_GX2_50270	Unknown	4.513 	420.7818 	7.15 	3.2261 	20.64 
+52	               109_GX2_50270_DUP	Unknown	4.507 	434.7643 	6.97 	3.3333 	21.28 
+53	               110_GX2_50006	Unknown	4.497 	671.2198 	10.01 	5.1462 	32.38 
+54	               110_GX2_50006_SPIKE	Spiked	4.487 	873.8339 	12.62 	6.6996 	41.51 
+55	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+56	Standard 2	Check Standard	4.523 	1.0604 	7.37 	0.8943 	6.02 
+57	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+58	               111_GX2_50106	Unknown	4.510 	457.7217 	8.17 	3.5093 	22.38 
+59	               112_GX2_50067	Unknown	4.493 	665.9294 	8.36 	5.1056 	32.12 
+60	               113_GX2_50189	Unknown	4.490 	755.0829 	8.92 	5.7891 	36.21 
+61	               114_GX2_50300	Unknown	4.477 	1141.3714 	9.19 	8.7508 	53.35 
+62	               115_GX2_50214	Unknown	4.487 	842.6368 	8.48 	6.4604 	40.19 
+63	               116_GX2_50090	Unknown	4.497 	721.3667 	9.65 	5.5306 	34.72 
+64	               117_GX2_50248	Unknown	4.480 	1041.3722 	8.61 	7.9841 	48.97 
+65	               118_GX2_50283	Unknown	4.513 	283.3261 	4.93 	2.1722 	14.04 
+66	               119_GX2_50066	Unknown	4.503 	473.0408 	10.22 	3.6268 	23.15 
+67	               119_GX2_50066_DUP	Unknown	4.503 	481.1109 	10.31 	3.6886 	23.56 
+68	               120_GX2_50142	Unknown	4.490 	781.0910 	6.84 	5.9885 	37.47 
+69	               120_GX2_50142_SPIKE	Spiked	4.477 	1021.5066 	8.61 	7.8318 	48.16 
+70	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+71	Standard 2	Check Standard	4.517 	1.0617 	7.38 	0.8954 	6.04 
+72	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+73	               121_GX2_50271	Unknown	4.490 	827.4453 	8.59 	6.3439 	39.51 
+74	               122_GX2_50218	Unknown	4.507 	370.8357 	6.33 	2.8432 	18.29 
+75	               123_GX2_50207	Unknown	4.473 	1126.8388 	8.17 	8.6394 	52.73 
+76	               124_GX2_50149	Unknown	4.490 	688.6843 	6.94 	5.2801 	33.28 
+77	               125_GX2_50298l	Unknown	4.487 	821.8586 	11.50 	6.3011 	39.31 
+78	               126_GX2_50240	Unknown	4.487 	762.1144 	9.53 	5.8431 	36.64 
+79	               127_GX2_50104	Unknown	4.500 	496.4163 	8.71 	3.8060 	24.30 
+80	               128_GX2_50168	Unknown	4.507 	324.0624 	6.89 	2.4846 	16.06 
+81	               129_GX2_50241	Unknown	4.477 	1063.1216 	8.06 	8.1508 	50.08 
+82	               129_GX2_50241_DUP	Unknown	4.477 	1076.2222 	8.21 	8.2513 	50.58 
+83	               130_GX2_50163	Unknown	4.493 	685.1463 	7.72 	5.2529 	33.13 
+84	               130_GX2_50163_SPIKE	Spiked	4.483 	892.0319 	9.79 	6.8391 	42.51 
+85	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+86	Standard 3	Check Standard	4.510 	2.0101 	7.00 	1.6952 	11.13 
+87	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+88	               131_GX2_50083	Unknown	4.497 	598.5168 	9.03 	4.5888 	29.10 
+89	               132_GX2_50258	Unknown	4.483 	893.5406 	8.37 	6.8507 	42.55 
+90	               133_GX2_50171	Unknown	4.497 	507.0133 	6.18 	3.8872 	24.84 
+91	               134_GX2_50291	Unknown	4.487 	858.4669 	6.45 	6.5818 	41.05 
+92	               135_GX2_50228	Unknown	4.480 	928.2117 	8.41 	7.1165 	44.07 
+93	               136_GX2_50111	Unknown	4.483 	834.2809 	9.06 	6.3963 	39.90 
+94	               137_GX2_50063	Unknown	4.483 	763.0304 	9.98 	5.8501 	36.71 
+95	               138_GX2_50222	Unknown	4.487 	768.0283 	8.44 	5.8884 	36.90 
+96	               139_GX2_50084	Unknown	4.497 	558.0296 	8.82 	4.2784 	27.26 
+97	               139_GX2_50084_DUP	Unknown	4.497 	559.9146 	8.81 	4.2928 	27.38 
+98	               140_GX2_50238	Unknown	4.493 	626.4776 	7.30 	4.8031 	30.48 
+99	               140_GX2_50238_SPIKE	Spiked	4.480 	842.0888 	9.37 	6.4562 	40.31 
+100	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+101	Standard 3	Check Standard	4.513 	2.0124 	7.00 	1.6971 	11.16 
+102	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+103	               141_GX2_50065	Unknown	4.483 	865.2124 	8.21 	6.6335 	41.23 
+104	               142_GX2_50139	Unknown	4.483 	797.3429 	7.80 	6.1131 	38.27 
+105	               143_GX2_50094	Unknown	4.520 	48.7967 	1.61 	0.3741 	2.55 
+106	               144_GX2_50050	Unknown	4.490 	659.7232 	9.18 	5.0580 	31.99 
+107	               145_GX2_50279	Unknown	4.477 	981.4198 	9.10 	7.5244 	46.52 
+108	               146_GX2_50096	Unknown	4.480 	827.3211 	8.82 	6.3430 	39.61 
+109	               147_PoMP3_SC_5	Unknown	4.490 	649.6913 	10.91 	4.9811 	31.52 
+110	               148_PoMP2B_SC_2	Unknown	4.497 	549.2835 	8.18 	4.2113 	26.81 
+111	               149_PoMP3_SC_2	Unknown	4.487 	682.3511 	10.43 	5.2315 	33.05 
+112	               149_PoMP3_SC_2_DUP	Unknown	4.483 	709.1637 	8.00 	5.4371 	34.22 
+113	               150_PoMP2B_SC_5	Unknown	4.493 	484.9512 	7.23 	3.7181 	23.77 
+114	               150_PoMP2B_SC_5_SPIKE	Spiked	4.487 	672.6517 	9.91 	5.1572 	32.53 
+115	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+116	Standard 3	Check Standard	4.510 	2.0162 	7.02 	1.7004 	11.19 
+117	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+118	               151_PoMP3_SC_3	Unknown	4.490 	712.2502 	11.04 	5.4607 	34.40 
+119	               152_PoMP2B_SC_3	Unknown	4.493 	534.7586 	7.80 	4.0999 	26.09 
+120	               153_PoMP2B_SC_4	Unknown	4.497 	485.7140 	7.32 	3.7239 	23.81 
+121	               154_PoMP3_SC_4	Unknown	4.487 	664.1442 	9.12 	5.0919 	32.20 
+122	               155_PoMP3_SC_1	Unknown	4.490 	658.5780 	9.10 	5.0492 	31.91 
+123	               155_PoMP3_SC_1_DUP	Unknown	4.490 	661.5505 	9.18 	5.0720 	32.07 
+124	               156_PoMP2B_SC_1	Unknown	4.497 	497.8884 	7.27 	3.8173 	24.37 
+125	               156_PoMP2B_SC_1_SPIKE	Spiked	4.487 	683.7480 	9.87 	5.2422 	33.05 
+126	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+127	Standard 4	Check Standard	4.467 	10.6521 	7.22 	8.9836 	54.69 
+128	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+129	Standard 1	Calibration Standard	4.523 	0.4338 	6.26 	0.3658 	2.55 
+130	Standard 2	Calibration Standard	4.513 	1.0710 	7.46 	0.9032 	6.11 
+131	Standard 3	Calibration Standard	4.510 	2.0169 	7.02 	1.7010 	11.20 
+132	Standard 4	Calibration Standard	4.467 	10.6757 	7.22 	9.0035 	54.86 
+133	Standard 5	Calibration Standard	4.437 	19.7481 	6.64 	16.6548 	94.85 
+134	Lab Blank	Unknown	4.520 	0.0014 	7.27 	0.0012 	0.01 
+135	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
+Maximum			5.047 	1141.3714 	13.64 	16.6548 	94.85 
+Average			4.505 	569.1992 	7.93 	5.0192 	31.24 
+Minimum			4.437 	0.0014 	0.08 	0.0012 	0.01 
+Standard Deviation			0.075 	339.2184 	2.19 	2.8159 	16.60 
+Relative Standard Deviation			1.67%	59.60%	27.61%	56.10%	53.15%
