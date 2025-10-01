@@ -1,6 +1,6 @@
 ---
 title: "GENX2 Porewater SO4/Cl"
-author: "2025 Samples"
+author: "2025 Samples Run 1"
 date: "`r Sys.Date()`"
 output: 
   pdf_document:
@@ -20,7 +20,7 @@ lapply(c(
   "dplyr", "ggplot2", "ggpubr", "stringr",
   "purrr", "tidyverse", "here", "broom", "tibble",
   "googledrive", "googlesheets4", "data.table", 
-  "matrixStats", "gridExtra", "grid", "tidyverse", "knitr"), 
+  "matrixStats", "gridExtra", "grid", "tidyverse", "knitr", "readr"), 
   library, character.only = TRUE)
 
 ```
@@ -32,9 +32,11 @@ lapply(c(
 ###### Run information - PLEASE CHANGE
   Project = "GENX2"  
   Date_Run = "2025-09-05"  #Date that instrument was run
+  Year_run = "2025" #Year that instrument was run
   Run_by = "Zoe Read"  #Instrument user 
   Script_run_by = "Zoe Read" #Code user 
-  run_notes = " " #any notes from the run
+  run_notes = "Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+  " #any notes from the run
 
 ###### File Names - PLEASE CHANGE 
 #file path and name for raw summary data file 
@@ -106,7 +108,7 @@ lapply(c(
 ####Edit this to match specific project####
 
 #read in the raw metadata file 
-raw_metadata <- read.csv(Raw_Metadata)
+metadata <- read.csv(Raw_Metadata)
 
 #make a new columns in the metadata with important info:
 # metadata <- raw_metadata %>%
@@ -331,8 +333,12 @@ new_rows <- anti_join(Slopes, log, by = c("run_date", "analyte"))
 # Append the new, non-duplicate rows to log
 log <- bind_rows(log, new_rows)
 
-#plot the current slops with the previous slopes 
-Slopes_chk <- ggplot(log, aes(run_date, slope, col=curve)) +
+#subset the log file by the current year
+log_year <- log %>%
+  filter(str_detect(run_date, Year_run))   
+  
+#plot the current slopes with the previous slopes 
+Slopes_chk <- ggplot(log_year, aes(run_date, slope, col=curve)) +
   geom_point(size=4) + 
   geom_line() + 
   theme_bw() + labs(title="Slope Drift Assessment", x="Run Date", y="Slope") +
@@ -595,16 +601,16 @@ if (so4_blks_percent <= chks_flag) {
 #pull out any rows that have "dup" in the sample_name column
 dups <- all_dat %>%  
   select(!c(sample_name, sample_type, SO4_area, Cl_area, Cl_QAQC_flag, SO4_QAQC_flag)) %>%
-  filter(str_detect(sample_ID, "dup"))      #have to change this to match data
+  filter(str_detect(sample_ID, "DUP"))      #have to change this to match data
 
 #create a new dataframe and remove dups from sample dataframe 
 dat_raw2 <- all_dat %>%  
-  filter(!str_detect(sample_ID, "dup")) %>%  
+  filter(!str_detect(sample_ID, "DUP")) %>%  
   select(!c(sample_name, sample_type, SO4_area, Cl_area, Cl_QAQC_flag, SO4_QAQC_flag))
 
 #remove the dup from these IDs so we will have duplicate sample names
 dups <- dups %>%
-  mutate(sample_ID = gsub("_dup", "", as.character(sample_ID))) %>%
+  mutate(sample_ID = gsub("_DUP", "", as.character(sample_ID))) %>%
   rename(
     sample_ID = sample_ID,
     SO4_ppm_dup = SO4_ppm, 
@@ -772,14 +778,13 @@ all_dat$Cl_Conc_mM <- (all_dat$Cl_ppm / cl_mw)
 all_dat$salinity <- ((1.8070 * all_dat$Cl_ppm) + 0.026) / 1000
 
 #Need to determine dilution factors for your samples
-#Separate sample ID's 
-all_dat <- all_dat %>%
-  mutate(sample_ID = sub("^[^_]+_", "", sample_ID))
 
-#Separate dup/spk namings
+#Separate namings
 all_dat <- all_dat %>%
   mutate(sample_ID_long = sample_ID) %>%
-  separate(sample_ID_long, into = c("sample_ID_short", "test"), sep = "_")
+  separate(sample_ID_long, into = c("number", "project", "ID", "test"), sep = "_") %>%
+  mutate(sample_ID_short = paste(number, project, ID, sep = "_"))
+  
 
 #merge dilution with sample run data 
 merged_data <- all_dat %>%
@@ -794,17 +799,17 @@ merged_data <- all_dat %>%
 #pull out any rows that have "spk" in the Sample ID column
 spks <- merged_data %>%  
   select(c(sample_ID, SO4_Conc_mM, SO4_ppm, Dilution)) %>%
-  filter(str_detect(sample_ID, "spk"))      #have to change this to match data
+  filter(str_detect(sample_ID, "SPIKE"))      #have to change this to match data
 # head(spks)
 
 #create a new dataframe and remove dups from sample dataframe 
 dat_spks <- merged_data %>%  
-  filter(!str_detect(sample_ID, "spk")) %>%  
+  filter(!str_detect(sample_ID, "SPIKE")) %>%  
   select(c(sample_ID, SO4_Conc_mM, SO4_ppm))
 
 #remove the dup from these IDs so we will have duplicate sample names
 spks <- spks %>%
-  mutate(sample_ID = gsub("_spk", "", as.character(sample_ID))) %>%
+  mutate(sample_ID = gsub("_SPIKE", "", as.character(sample_ID))) %>%
   rename(
     sample_ID = sample_ID,
     SO4_Conc_mM_spk = SO4_Conc_mM, 
@@ -952,52 +957,52 @@ Perc_Cl_flagged <- dat_flagged %>%
 knitr::kable(Perc_SO4_flagged, caption = "SO4 samples")
 knitr::kable(Perc_Cl_flagged, caption = "Cl samples")
 
+#remove duplicates from the sample dataframe bc we are just taking the first dup run
+df_all_clean <- dat_flagged %>%
+  filter(!str_detect(sample_ID, "DUP")) %>%
+  filter(!str_detect(sample_ID, "Lab Blank")) %>%
+  filter(!str_detect(sample_ID, "SPIKE"))
+
 ```
 
 
 ## Visualize Data by Plot   
-```{#r Visualize Data, echo=FALSE, warning=FALSE}
-
-####Edit this if there are IDs with distinctive plots to visualize####
-
-#remove duplicates from the sample dataframe bc we are just taking the first dup run
-df_all_clean <- dat_flagged %>%
-  filter(!str_detect(sample_ID, "dup")) %>%
-  filter(!str_detect(sample_ID, "Lab Blank")) %>%
-  filter(!str_detect(sample_ID, "spk"))
-
-#Plot samples to get a first look at concentrations (sanity check)
-data_plotting <- df_all_clean
-
-# #Order by Zone from Upland to Surface Water
-# data_plotting$Zone = factor(data_plotting$Zone, levels = c("UP",  "SWAMP", "TR", "WC", "SW"))
-# data_plotting <- data_plotting[order(data_plotting$Zone), ]
-
-#group the data for plotting
-data_plotting <- data_plotting %>%
-  mutate(row_num = factor(row_number())) %>%  # create row_num as factor per group
-  ungroup()
-
-#Plot data and change colors based on Zone:
-viz_cl_plot <- ggplot(data_plotting, aes(x = row_num, y = Cl_ppm, fill = Subsite)) +
-  geom_bar(stat = "identity", position = position_dodge2(preserve = "single")) +
-  facet_grid(~ Subsite, scales="free_x") +
-  theme_classic() +
-  theme(axis.text.x = element_blank()) +
-  labs(x = " ", y = "Cl (mg/L)", title = "Samples: Chloride") +
-  scale_x_discrete(drop = TRUE)
-
-
-viz_so4_plot <-  ggplot(data_plotting, aes(x = row_num, y = SO4_ppm, fill = Subsite)) +
-  geom_bar(stat = "identity", position = position_dodge2(preserve = "single")) +
-  facet_grid(~ Subsite, scales="free_x") +
-  theme_classic() +
-  theme(axis.text.x = element_blank()) +
-  labs(x = " ", y = "SO4 (mg/L)", title = "Samples: SO4") +
-  scale_x_discrete(drop = TRUE)
-
-ggarrange(viz_cl_plot, viz_so4_plot, nrow=2, ncol=1)
-
+```{r Visualize Data, include = FALSE, echo=FALSE, warning=FALSE}
+# 
+# ####Edit this if there are IDs with distinctive plots to visualize####
+# 
+# #Plot samples to get a first look at concentrations (sanity check)
+# data_plotting <- df_all_clean
+# 
+# # #Order by Zone from Upland to Surface Water
+# # data_plotting$Zone = factor(data_plotting$Zone, levels = c("UP",  "SWAMP", "TR", "WC", "SW"))
+# # data_plotting <- data_plotting[order(data_plotting$Zone), ]
+# 
+# #group the data for plotting
+# data_plotting <- data_plotting %>%
+#   mutate(row_num = factor(row_number())) %>%  # create row_num as factor per group
+#   ungroup()
+# 
+# #Plot data and change colors based on Zone:
+# viz_cl_plot <- ggplot(data_plotting, aes(x = row_num, y = Cl_ppm, fill = Subsite)) +
+#   geom_bar(stat = "identity", position = position_dodge2(preserve = "single")) +
+#   facet_grid(~ Subsite, scales="free_x") +
+#   theme_classic() +
+#   theme(axis.text.x = element_blank()) +
+#   labs(x = " ", y = "Cl (mg/L)", title = "Samples: Chloride") +
+#   scale_x_discrete(drop = TRUE)
+# 
+# 
+# viz_so4_plot <-  ggplot(data_plotting, aes(x = row_num, y = SO4_ppm, fill = Subsite)) +
+#   geom_bar(stat = "identity", position = position_dodge2(preserve = "single")) +
+#   facet_grid(~ Subsite, scales="free_x") +
+#   theme_classic() +
+#   theme(axis.text.x = element_blank()) +
+#   labs(x = " ", y = "SO4 (mg/L)", title = "Samples: SO4") +
+#   scale_x_discrete(drop = TRUE)
+# 
+# ggarrange(viz_cl_plot, viz_so4_plot, nrow=2, ncol=1)
+# 
 
 ```
 
@@ -1019,18 +1024,13 @@ colnames(final_data)
 
 final_data <- final_data %>%
   rename(
-    Time.Sample.Taken = Time.Sample.Taken..CT.,
-    Actual.Volume.mL = Actual.Volume..mL., 
-    Refractometer.reading.ppt = Refractometer.reading..ppt., 
-    Field_Notes = Notes, 
     Sample_ID = sample_ID
     # add more rename pairs as needed
   ) %>%
   select(
-         Project, Site, Subsite, Subsite.Abbreviation, Inpoundment.Location, Plot, Replicate, 
-         Sample_ID, Sampling.Date, Time.Sample.Taken, Actual.Volume.mL, Refractometer.reading.ppt, 
+         Project, Sample_ID, 
          SO4_Conc_mM, SO4_Conc_flag, SO4_QAQC_flag, Cl_Conc_mM, Cl_Conc_flag, Cl_QAQC_flag, salinity,
-         Analysis_rundate,  Run_notes, Field_Notes
+         Analysis_rundate,Run_notes
         # list columns in the order you want them
   )
 
