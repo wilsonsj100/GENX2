@@ -1,0 +1,349 @@
+"","Project","Sample_ID","SO4_Conc_mM","SO4_Conc_flag","SO4_QAQC_flag","Cl_Conc_mM","Cl_Conc_flag","Cl_QAQC_flag","salinity","Analysis_rundate","Run_notes"
+"1","GX2","               157_GX2_50058",9.59877729257642,"Within_Range","SO4 checks perc diff out of range",69.9963300423131,"Within_Range","",4.4838614093,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"2","GX2","               158_GX2_50261",5.15948533998752,"Within_Range","SO4 checks perc diff out of range",73.8755909732017,"Within_Range","",4.7323596879,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"3","GX2","               159_GX2_50062",7.9414535246413,"Within_Range","SO4 checks perc diff out of range",48.2076671368124,"Within_Range","",3.0881199726,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"4","GX2","               160_GX2_50178",12.7093512164691,"Within_Range","SO4 checks perc diff out of range",85.9930296191819,"Within_Range","",5.5085803903,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"5","GX2","               161_GX2_50097",9.51896756082346,"Within_Range","SO4 checks perc diff out of range",51.6206995768688,"Within_Range","",3.3067525166,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"6","GX2","               162_GX2_50165",0.504401122894573,"Within_Range","SO4 checks perc diff out of range",26.1145895627645,"Within_Range","",1.6728782954,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"7","GX2","               163_GX2_50098",7.96129756706176,"Within_Range","SO4 checks perc diff out of range",46.9057348377997,"Within_Range","",3.0047205981,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"8","GX2","               164_GX2_50105",12.6257236431691,"Within_Range","SO4 checks perc diff out of range",81.048922425952,"Within_Range","",5.1918700301,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"9","GX2","               165_GX2_50158",1.85674984404242,"Within_Range","SO4 checks perc diff out of range",52.3958899858956,"Within_Range","",3.3564097801,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"10","GX2","               166_GX2_50116",21.0919089207735,"adl","SO4 checks perc diff out of range",135.998947813822,"Within_Range","",8.7118669989,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"11","GX2","               167_GX2_50203",5.90580162195883,"Within_Range","SO4 checks perc diff out of range",29.9962566995769,"Within_Range","",1.9215307111,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"12","GX2","               168_GX2_50092",6.56526200873362,"Within_Range","SO4 checks perc diff out of range",41.2050296191819,"Within_Range","",2.6395439681,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"13","GX2","               169_GX2_50209",26.9140174672489,"Within_Range","SO4 checks perc diff out of range",191.324141043724,"Within_Range","",12.2558965256,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"14","GX2","               170_GX2_50103",6.59475670617592,"Within_Range","SO4 checks perc diff out of range",65.8498053596615,"Within_Range","",4.2182427092,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"15","GX2","               171_GX2_50120",21.3476731129133,"Within_Range","SO4 checks perc diff out of range",161.731026798307,"Within_Range","",10.3602163743,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"16","GX2","               172_GX2_50132",0.274295071740487,"Within_Range","SO4 checks perc diff out of range",71.9128942172073,"Within_Range","",4.6066329647,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"17","GX2","               173_GX2_50250",1.79991890205864,"Within_Range","SO4 checks perc diff out of range",82.7696558533145,"Within_Range","",5.3020970301,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"18","GX2","               174_GX2_50172",5.91567997504679,"Within_Range","SO4 checks perc diff out of range",37.7529139633286,"Within_Range","",2.4184078256,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"19","GX2","               175_GX2_50004",7.00534310667498,"Within_Range","SO4 checks perc diff out of range",47.9735825105783,"Within_Range","",3.0731249445,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"20","GX2","               176_GX2_50072",8.33803805364941,"Within_Range","SO4 checks perc diff out of range",53.468874471086,"Within_Range","",3.4251431812,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"21","GX2","               177_GX2_50082",7.42937305053026,"Within_Range","SO4 checks perc diff out of range",44.963557122708,"Within_Range","",2.8803082867,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"22","GX2","               178_GX2_50174",18.840396132252,"Within_Range","SO4 checks perc diff out of range",91.299658674189,"Within_Range","",5.8485132303,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"23","GX2","               179_GX2_50061",4.64213038053649,"Within_Range","SO4 checks perc diff out of range",32.3898476727786,"Within_Range","",2.0748597207,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"24","GX2","               180_GX2_50225",10.6642077354959,"Within_Range","SO4 checks perc diff out of range",68.5346093088857,"Within_Range","",4.3902262833,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"25","GX2","               181_GX2_50053",18.0037398627573,"Within_Range","SO4 checks perc diff out of range",91.9737179125529,"Within_Range","",5.8916922181,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"26","GX2","               182_GX2_50227",28.9613443543356,"Within_Range","SO4 checks perc diff out of range",220.928031029619,"Within_Range","",14.1522669509,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"27","GX2","               183_GX2_50173",13.8644167186525,"Within_Range","SO4 checks perc diff out of range",91.6589873060649,"Within_Range","",5.8715311577,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"28","GX2","               184_GX2_50077",24.021066749844,"Within_Range","SO4 checks perc diff out of range",126.890569816643,"Within_Range","",8.1284011549,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"29","GX2","               185_GX2_50143",1.16729257641921,"Within_Range","SO4 checks perc diff out of range",65.9347926657264,"Within_Range","",4.2236868388,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"30","GX2","               186_GX2_50131",23.3941110417966,"Within_Range","SO4 checks perc diff out of range",157.673038081805,"Within_Range","",10.1002691244,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"31","GX2","               187_GX2_50122",10.9645913911416,"Within_Range","SO4 checks perc diff out of range",99.9408490832158,"Within_Range","",6.4020519017,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"32","GX2","               188_GX2_50064",19.6810948222084,"Within_Range","SO4 checks perc diff out of range",113.510730606488,"Within_Range","",7.2713134078,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"33","GX2","               189_GX2_50170",18.2759014348097,"Within_Range","SO4 checks perc diff out of range",165.283153737659,"Within_Range","",10.5877590546,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"34","GX2","               190_GX2_50079",21.6703493449782,"Within_Range","SO4 checks perc diff out of range",112.981771509168,"Within_Range","",7.2374292666,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"35","GX2","               191_GX2_50007",8.44644416718653,"Within_Range","SO4 checks perc diff out of range",60.1015035260931,"Within_Range","",3.8500171281,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"36","GX2","               192_GX2_50145",18.0658047411104,"Within_Range","SO4 checks perc diff out of range",110.374242595205,"Within_Range","",7.0703957883,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"37","GX2","               193_GX2_50138",11.8730754834685,"Within_Range","SO4 checks perc diff out of range",116.240987306065,"Within_Range","",7.446208601,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"38","GX2","               194_GX2_50087",10.4436712414223,"Within_Range","SO4 checks perc diff out of range",64.1989055007052,"Within_Range","",4.1124891184,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"39","GX2","               195_GX2_50089",13.4503555832813,"Within_Range","SO4 checks perc diff out of range",70.9815994358251,"Within_Range","",4.5469759439,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"40","GX2","               196_GX2_50211",0.141232064878353,"Within_Range","SO4 checks perc diff out of range",96.0445726375176,"Within_Range","",6.1524636407,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"41","GX2","               197_GX2_50196",33.0796007485964,"Within_Range","SO4 checks perc diff out of range",220.306104372355,"Within_Range","",14.1124274798,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"42","GX2","               198_GX2_50008",9.44393948845914,"Within_Range","SO4 checks perc diff out of range",54.058197461213,"Within_Range","",3.4628941217,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"43","GX2","               199_GX2_50014",8.91156893325016,"Within_Range","SO4 checks perc diff out of range",59.152629055007,"Within_Range","",3.7892339849,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"44","GX2","               200_GX2_50112",11.8247535870243,"Within_Range","SO4 checks perc diff out of range",74.4732976022567,"Within_Range","",4.7706476688,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"45","GX2","               201_GX2_50027",13.5343013100437,"Within_Range","SO4 checks perc diff out of range",72.8913709449929,"Within_Range","",4.6693123737,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"46","GX2","               202_GX2_50110",16.1615190268247,"Within_Range","SO4 checks perc diff out of range",95.2232299012694,"Within_Range","",6.0998499445,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"47","GX2","               203_GX2_50133",25.1331877729258,"Within_Range","SO4 checks perc diff out of range",137.012662905501,"Within_Range","",8.7768037123,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"48","GX2","               204_GX2_50167",13.2969089207735,"Within_Range","SO4 checks perc diff out of range",94.7650126939351,"Within_Range","",6.0704973979,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"49","GX2","               205_GX2_50109",11.0187679351216,"Within_Range","SO4 checks perc diff out of range",65.6665613540197,"Within_Range","",4.2065044372,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"50","GX2","               206_GX2_50123",12.7203774173425,"Within_Range","SO4 checks perc diff out of range",105.748234132581,"Within_Range","",6.7740622443,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"51","GX2","               207_GX2_50224",0.0680941983780412,"Within_Range","SO4 checks perc diff out of range",70.8203921015515,"Within_Range","",4.5366493003,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"52","GX2","               208_GX2_50160",21.9524953212726,"Within_Range","SO4 checks perc diff out of range",127.928530324401,"Within_Range","",8.1948909848,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"53","GX2","               209_GX2_50216",0.162819713038054,"Within_Range","SO4 checks perc diff out of range",105.085997179126,"Within_Range","",6.7316405702,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"54","GX2","               210_GX2_50161",9.52269494697442,"Within_Range","SO4 checks perc diff out of range",81.5487136812412,"Within_Range","",5.2238857333,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"55","GX2","               211_GX2_50035",20.3338116032439,"Within_Range","SO4 checks perc diff out of range",102.081334273625,"Within_Range","",6.5391674231,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"56","GX2","               212_GX2_50100",21.8880630068621,"Within_Range","SO4 checks perc diff out of range",100.064047954866,"Within_Range","",6.4099437935,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"57","GX2","               213_GX2_50249",6.043041172801,"Within_Range","SO4 checks perc diff out of range",76.9888942172073,"Within_Range","",4.9317921341,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"58","GX2","               214_GX2_50156",13.4783312538989,"Within_Range","SO4 checks perc diff out of range",108.64952045134,"Within_Range","",6.9599132785,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"59","GX2","               215_GX2_50152",4.99627885215221,"Within_Range","SO4 checks perc diff out of range",76.4771932299013,"Within_Range","",4.8990135155,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"60","GX2","               216_GX2_50091",18.0475109170306,"Within_Range","SO4 checks perc diff out of range",108.383937940762,"Within_Range","",6.9429005542,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"61","GX2","               217_GX2_50239",21.902713661884,"Within_Range","SO4 checks perc diff out of range",143.826572637518,"Within_Range","",9.213290164,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"62","GX2","               218_GX2_50234",23.5094323144105,"Within_Range","SO4 checks perc diff out of range",131.649269393512,"Within_Range","",8.4332346462,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"63","GX2","               219_GX2_50192",24.5267997504679,"Within_Range","SO4 checks perc diff out of range",149.910047954866,"Within_Range","",9.6029863384,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"64","GX2","               220_GX2_50108",31.0922738615097,"Within_Range","SO4 checks perc diff out of range",189.283531734838,"Within_Range","",12.1251788684,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"65","GX2","               221_GX2_50195",37.315807860262,"Within_Range","SO4 checks perc diff out of range",245.575009873061,"Within_Range","",15.7311068187,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"66","GX2","               222_GX2_50070",37.1607610729881,"Within_Range","SO4 checks perc diff out of range",191.09597461213,"Within_Range","",12.2412806061,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"67","GX2","               223_GX2_50127",30.0531316281971,"Within_Range","SO4 checks perc diff out of range",207.280894217207,"Within_Range","",13.2780566139,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"68","GX2","               224_GX2_50169",30.3441859014348,"Within_Range","SO4 checks perc diff out of range",230.058764456982,"Within_Range","",14.7371648424,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"69","GX2","               225_GX2_50275",32.9687835308796,"Within_Range","SO4 checks perc diff out of range",265.887108603667,"Within_Range","",17.032262286,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"70","GX2","               226_GX2_50229",21.6344822208359,"Within_Range","SO4 checks perc diff out of range",249.721616361072,"Within_Range","",15.9967307591,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"71","GX2","               227_GX2_50124",28.1195726762321,"Within_Range","SO4 checks perc diff out of range",213.132583921016,"Within_Range","",13.6529050307,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"72","GX2","               228_GX2_50081",35.0126013724267,"Within_Range","SO4 checks perc diff out of range",213.740558533145,"Within_Range","",13.6918507596,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"73","GX2","               229_GX2_50068",28.7365689332502,"Within_Range","SO4 checks perc diff out of range",156.572502115656,"Within_Range","",10.0297708264,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"74","GX2","               230_GX2_50242",19.1450717404866,"Within_Range","SO4 checks perc diff out of range",151.541376586742,"Within_Range","",9.7074862326,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"75","GX2","               231_GX2_50297",35.6310573923893,"Within_Range","SO4 checks perc diff out of range",209.536713681241,"Within_Range","",13.4225602355,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"76","GX2","               232_GX2_50069",39.0060106051154,"Within_Range","SO4 checks perc diff out of range",233.932270803949,"Within_Range","",14.985294493,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"77","GX2","               233_GX2_50153",37.1350311915159,"Within_Range","SO4 checks perc diff out of range",239.077218617771,"Within_Range","",15.3148703318,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"78","GX2","               234_GX2_50137",23.4484185901435,"Within_Range","SO4 checks perc diff out of range",175.338389280677,"Within_Range","",11.2318788413,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"79","GX2","               235_GX2_50025",46.6042295695571,"Within_Range","SO4 checks perc diff out of range",259.795049365303,"Within_Range","",16.6420162415,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"80","GX2","               236_GX2_50292",21.4954335620711,"Within_Range","SO4 checks perc diff out of range",142.140087447109,"Within_Range","",9.1052570427,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"81","GX2","               237_GX2_50102",28.6185339987523,"Within_Range","SO4 checks perc diff out of range",161.524950634697,"Within_Range","",10.3470155165,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"82","GX2","               238_GX2_50176",21.7412850904554,"Within_Range","SO4 checks perc diff out of range",179.403221438646,"Within_Range","",11.4922644694,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"83","GX2","               239_GX2_50162",41.5886556456644,"Within_Range","SO4 checks perc diff out of range",276.953805359661,"Within_Range","",17.7411744068,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"84","GX2","               240_GX2_50155",45.3435121646912,"Within_Range","SO4 checks perc diff out of range",262.020039492243,"Within_Range","",16.7845449928,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"85","GX2","               241_GX2_50288",11.3903680598877,"Within_Range","SO4 checks perc diff out of range",187.799475317348,"Within_Range","",12.0301129598,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"86","GX2","               242_GX2_50179",27.2557641921397,"Within_Range","SO4 checks perc diff out of range",176.102874471086,"Within_Range","",11.2808503483,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "
+"87","GX2","               243_GX2_50039",25.1394104803493,"Within_Range","SO4 checks perc diff out of range",167.486344146685,"Within_Range","",10.7288913563,"2025-09-18","Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
+  "

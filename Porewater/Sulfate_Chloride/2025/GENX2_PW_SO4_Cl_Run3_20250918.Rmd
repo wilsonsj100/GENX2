@@ -1,7 +1,7 @@
 ---
 title: "GENX2 Porewater SO4/Cl"
-author: "2025 Samples Run 1"
-date: "`r Sys.Date()`"
+author: "2025 Samples Run 3"
+date: "Date QAQC'd: `r Sys.Date()`"
 output: 
   pdf_document:
     toc: true
@@ -30,21 +30,22 @@ lapply(c(
 ```{r Run Information, echo=TRUE, message=FALSE, warning=FALSE}
 
 ###### Run information - PLEASE CHANGE
-  Project = "GENX2"  
-  Date_Run = "2025-09-05"  #Date that instrument was run
+  Date_Run = "2025-09-18"  #Date that instrument was run
   Year_run = "2025" #Year that instrument was run
   Run_by = "Zoe Read"  #Instrument user 
   Script_run_by = "Zoe Read" #Code user 
-  run_notes = "Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+  run_notes = "Chk std 1 SO4 is slightly lower than the expected concentration. 
+  One dup (185_GX2_50143) had high CV. 
+  166_GX2_50116 was above the SO4 detection limit (24.5 ppm vs the 20 ppm detection limit)
   " #any notes from the run
 
 ###### File Names - PLEASE CHANGE 
 #file path and name for raw summary data file 
-  raw_file_name_cl = "Raw Data/GenX2_Mesocosms2025_PW_Run1_20250905_Cl.txt"
-  raw_file_name_so4 = "Raw Data/GenX2_Mesocosms2025_PW_Run1_20250905_SO4.txt"
+  raw_file_name_cl = "Raw Data/GenX2_Mesocosms2025_PW_Run3_20250918_Cl.txt"
+  raw_file_name_so4 = "Raw Data/GenX2_Mesocosms2025_PW_Run3_20250918_SO4.txt"
 
 #file path and name of processed data file 
-  processed_file_name = "Processed Data/GenX2_Mesocosms2025_PW_Processed_Cl_SO4_Run1_20250905.csv" 
+  processed_file_name = "Processed Data/GenX2_Mesocosms2025_PW_Processed_Cl_SO4_Run3_20250918.csv" 
 
 ###### Log Files - PLEASE CHECK 
 #downloaded metadata csv of dilutions
@@ -110,18 +111,8 @@ lapply(c(
 #read in the raw metadata file 
 metadata <- read.csv(Raw_Metadata)
 
-#make a new columns in the metadata with important info:
-# metadata <- raw_metadata %>%
-#   rename("Cl_SO4_ID" = "Impoundment.Location...Plot...Replicate") %>%
-#   mutate(Cl_SO4_ID = toupper(Cl_SO4_ID)) 
-
-# colnames(metadata)
-
 #Take out the columns and rows that are not relevant
 dionex_metadata <- metadata %>%
-  # select(Cl_SO4_ID, Site, Subsite, Subsite.Abbreviation, Inpoundment.Location, Plot, 
-  #        Replicate, Sampling.Date, Time.Sample.Taken..CT., Dilution, Actual.Volume..mL., Refractometer.reading..ppt., Notes ) %>%        
-  # only keep specific columns
   filter(!is.na(Cl_SO4_ID) & Cl_SO4_ID != "")  # remove missing/blank Cl_SO4_ID rows
 
 head(dionex_metadata)
@@ -965,47 +956,6 @@ df_all_clean <- dat_flagged %>%
 
 ```
 
-
-## Visualize Data by Plot   
-```{r Visualize Data, include = FALSE, echo=FALSE, warning=FALSE}
-# 
-# ####Edit this if there are IDs with distinctive plots to visualize####
-# 
-# #Plot samples to get a first look at concentrations (sanity check)
-# data_plotting <- df_all_clean
-# 
-# # #Order by Zone from Upland to Surface Water
-# # data_plotting$Zone = factor(data_plotting$Zone, levels = c("UP",  "SWAMP", "TR", "WC", "SW"))
-# # data_plotting <- data_plotting[order(data_plotting$Zone), ]
-# 
-# #group the data for plotting
-# data_plotting <- data_plotting %>%
-#   mutate(row_num = factor(row_number())) %>%  # create row_num as factor per group
-#   ungroup()
-# 
-# #Plot data and change colors based on Zone:
-# viz_cl_plot <- ggplot(data_plotting, aes(x = row_num, y = Cl_ppm, fill = Subsite)) +
-#   geom_bar(stat = "identity", position = position_dodge2(preserve = "single")) +
-#   facet_grid(~ Subsite, scales="free_x") +
-#   theme_classic() +
-#   theme(axis.text.x = element_blank()) +
-#   labs(x = " ", y = "Cl (mg/L)", title = "Samples: Chloride") +
-#   scale_x_discrete(drop = TRUE)
-# 
-# 
-# viz_so4_plot <-  ggplot(data_plotting, aes(x = row_num, y = SO4_ppm, fill = Subsite)) +
-#   geom_bar(stat = "identity", position = position_dodge2(preserve = "single")) +
-#   facet_grid(~ Subsite, scales="free_x") +
-#   theme_classic() +
-#   theme(axis.text.x = element_blank()) +
-#   labs(x = " ", y = "SO4 (mg/L)", title = "Samples: SO4") +
-#   scale_x_discrete(drop = TRUE)
-# 
-# ggarrange(viz_cl_plot, viz_so4_plot, nrow=2, ncol=1)
-# 
-
-```
-
 ## Export Processed Data  
 ```{r Export Processed Data, echo=FALSE, include = FALSE}
 
@@ -1015,7 +965,7 @@ df_all_clean <- dat_flagged %>%
   #create required ID columns in R, etc. 
 final_data <- df_all_clean %>% 
   mutate(
-    Project = Project,   # change this in setup chunk, new column with same value on every row
+    Project = project,   # change this in setup chunk, new column with same value on every row
     Run_notes = run_notes,     # new column with notes about the run
     Analysis_rundate = print(Date_Run)
   ) 
