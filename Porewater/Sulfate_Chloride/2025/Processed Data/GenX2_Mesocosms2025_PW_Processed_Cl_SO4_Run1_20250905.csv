@@ -1,161 +1,241 @@
 "","Project","Sample_ID","SO4_Conc_mM","SO4_Conc_flag","SO4_QAQC_flag","Cl_Conc_mM","Cl_Conc_flag","Cl_QAQC_flag","salinity","Analysis_rundate","Run_notes"
-"1","GENX2","               1_GX2_50115",22.3866531503431,"Within_Range","",133.425159379408,"Within_Range","",8.5469948733,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"1","GX2","               1_GX2_50115",22.3866531503431,"Within_Range","",133.425159379408,"Within_Range","",8.5469948733,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"2","GENX2","               2_GX2_50088",0.969535246412976,"Within_Range","",76.0408236953456,"Within_Range","",4.8710604904,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"2","GX2","               2_GX2_50088",0.969535246412976,"Within_Range","",76.0408236953456,"Within_Range","",4.8710604904,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"3","GENX2","               3_GX2_50181",18.6229663131628,"Within_Range","",124.67349506347,"Within_Range","",7.9863794478,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"3","GX2","               3_GX2_50181",18.6229663131628,"Within_Range","",124.67349506347,"Within_Range","",7.9863794478,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"4","GENX2","               4_GX2_50129",21.3086743605739,"Within_Range","",220.517624823695,"Within_Range","",14.1259770886,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"4","GX2","               4_GX2_50129",21.3086743605739,"Within_Range","",220.517624823695,"Within_Range","",14.1259770886,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"5","GENX2","               5_GX2_50028",20.8696849656893,"Within_Range","",117.017275035261,"Within_Range","",7.4959361568,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"5","GX2","               5_GX2_50028",20.8696849656893,"Within_Range","",117.017275035261,"Within_Range","",7.4959361568,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"6","GENX2","               6_GX2_50236",29.6595976294448,"Within_Range","",201.514846262341,"Within_Range","",12.9086942491,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"6","GX2","               6_GX2_50236",29.6595976294448,"Within_Range","",201.514846262341,"Within_Range","",12.9086942491,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"7","GENX2","               7_GX2_50151",76.1269806612601,"adl","",445.523757404795,"Within_Range","",28.5394536804,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"7","GX2","               7_GX2_50151",76.1269806612601,"adl","",445.523757404795,"Within_Range","",28.5394536804,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"8","GENX2","               8_GX2_50144",11.2838022457891,"Within_Range","",91.5884118476728,"Within_Range","",5.8670102244,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"8","GX2","               8_GX2_50144",11.2838022457891,"Within_Range","",91.5884118476728,"Within_Range","",5.8670102244,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"9","GENX2","               9_GX2_50280",22.7986057392389,"Within_Range","",133.359269393512,"Within_Range","",8.5427740827,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"9","GX2","               9_GX2_50280",22.7986057392389,"Within_Range","",133.359269393512,"Within_Range","",8.5427740827,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"10","GENX2","               10_GX2_50045",1.43998128509046,"Within_Range","",60.4950578279266,"Within_Range","",3.8752274886,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"10","GX2","               10_GX2_50045",1.43998128509046,"Within_Range","",60.4950578279266,"Within_Range","",3.8752274886,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"11","GENX2","               11_GX2_50026",23.0472988147224,"Within_Range","",133.665184767278,"Within_Range","",8.5623704556,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"11","GX2","               11_GX2_50026",23.0472988147224,"Within_Range","",133.665184767278,"Within_Range","",8.5623704556,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"12","GENX2","               12_GX2_50299",26.0440112289457,"Within_Range","",255.175568406206,"Within_Range","",16.3461008373,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"12","GX2","               12_GX2_50299",26.0440112289457,"Within_Range","",255.175568406206,"Within_Range","",16.3461008373,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"13","GENX2","               13_GX2_50185",22.2455240174672,"Within_Range","",148.408468265162,"Within_Range","",9.5067979214,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"13","GX2","               13_GX2_50185",22.2455240174672,"Within_Range","",148.408468265162,"Within_Range","",9.5067979214,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"14","GENX2","               14_GX2_50010",21.7197691827823,"Within_Range","",123.890913963329,"Within_Range","",7.9362487503,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"14","GX2","               14_GX2_50010",21.7197691827823,"Within_Range","",123.890913963329,"Within_Range","",7.9362487503,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"15","GENX2","               15_GX2_50256",32.198025577043,"Within_Range","",202.14605077574,"Within_Range","",12.9491280425,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"15","GX2","               15_GX2_50256",32.198025577043,"Within_Range","",202.14605077574,"Within_Range","",12.9491280425,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"16","GENX2","               16_GX2_50287",26.7788927011853,"Within_Range","",134.665983074753,"Within_Range","",8.6264797437,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"16","GX2","               16_GX2_50287",26.7788927011853,"Within_Range","",134.665983074753,"Within_Range","",8.6264797437,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"17","GENX2","               17_GX2_50220",0.160224578914535,"Within_Range","",107.558566995769,"Within_Range","",6.8900288184,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"17","GX2","               17_GX2_50220",0.160224578914535,"Within_Range","",107.558566995769,"Within_Range","",6.8900288184,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"18","GENX2","               18_GX2_50247",22.386082345602,"Within_Range","",189.516172073343,"Within_Range","",12.1400813781,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"18","GX2","               18_GX2_50247",22.386082345602,"Within_Range","",189.516172073343,"Within_Range","",12.1400813781,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"19","GENX2","               19_GX2_50186",29.3760917030568,"Within_Range","",191.461779971791,"Within_Range","",12.2647134207,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"19","GX2","               19_GX2_50186",29.3760917030568,"Within_Range","",191.461779971791,"Within_Range","",12.2647134207,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"20","GENX2","               20_GX2_50085",26.4997816593886,"Within_Range","",112.627743300423,"Within_Range","",7.2147508745,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"20","GX2","               20_GX2_50085",26.4997816593886,"Within_Range","",112.627743300423,"Within_Range","",7.2147508745,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"21","GENX2","               21_GX2_50078",0.0551528384279476,"Within_Range","",41.913610719323,"Within_Range","",2.6849343625,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"21","GX2","               21_GX2_50078",0.0551528384279476,"Within_Range","",41.913610719323,"Within_Range","",2.6849343625,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"22","GENX2","               22_GX2_50217",0.0620399251403618,"Within_Range","",65.4737940761636,"Within_Range","",4.194156122,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"22","GX2","               22_GX2_50217",0.0620399251403618,"Within_Range","",65.4737940761636,"Within_Range","",4.194156122,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"23","GENX2","               23_GX2_50011",0.447142857142857,"Within_Range","",30.5602538787024,"Within_Range","",1.957659327,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"23","GX2","               23_GX2_50011",0.447142857142857,"Within_Range","",30.5602538787024,"Within_Range","",1.957659327,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"24","GENX2","               24_GX2_50150",28.7378540237056,"Within_Range","",165.37258674189,"Within_Range","",10.5934879674,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"24","GX2","               24_GX2_50150",28.7378540237056,"Within_Range","",165.37258674189,"Within_Range","",10.5934879674,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"25","GENX2","               25_GX2_50199",11.4870586400499,"Within_Range","",120.553619181946,"Within_Range","",7.7224678206,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"25","GX2","               25_GX2_50199",11.4870586400499,"Within_Range","",120.553619181946,"Within_Range","",7.7224678206,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"26","GENX2","               26_GX2_50233",0.130495945102932,"Within_Range","",84.7389478138223,"Within_Range","",5.4282462299,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"26","GX2","               26_GX2_50233",0.130495945102932,"Within_Range","",84.7389478138223,"Within_Range","",5.4282462299,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"27","GENX2","               27_GX2_50289",33.6112227074236,"Within_Range","",251.734110014104,"Within_Range","",16.1256473794,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"27","GX2","               27_GX2_50289",33.6112227074236,"Within_Range","",251.734110014104,"Within_Range","",16.1256473794,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"28","GENX2","               28_GX2_50095",18.3325109170306,"Within_Range","",114.495748942172,"Within_Range","",7.3344118601,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"28","GX2","               28_GX2_50095",18.3325109170306,"Within_Range","",114.495748942172,"Within_Range","",7.3344118601,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"29","GENX2","               29_GX2_50237",30.2474797255147,"Within_Range","",199.059616361072,"Within_Range","",12.7514167638,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"29","GX2","               29_GX2_50237",30.2474797255147,"Within_Range","",199.059616361072,"Within_Range","",12.7514167638,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"30","GENX2","               30_GX2_50073",25.7969463505926,"Within_Range","",152.756733427362,"Within_Range","",9.7853397434,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"30","GX2","               30_GX2_50073",25.7969463505926,"Within_Range","",152.756733427362,"Within_Range","",9.7853397434,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"31","GENX2","               31_GX2_50223",29.60958827199,"Within_Range","",203.786513399154,"Within_Range","",13.0542130433,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"31","GX2","               31_GX2_50223",29.60958827199,"Within_Range","",203.786513399154,"Within_Range","",13.0542130433,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"32","GENX2","               32_GX2_50101",19.6276918278228,"Within_Range","",121.249822284908,"Within_Range","",7.7670653034,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"32","GX2","               32_GX2_50101",19.6276918278228,"Within_Range","",121.249822284908,"Within_Range","",7.7670653034,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"33","GENX2","               33_GX2_50208",29.5486088583905,"Within_Range","",232.927599435825,"Within_Range","",14.9209371038,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"33","GX2","               33_GX2_50208",29.5486088583905,"Within_Range","",232.927599435825,"Within_Range","",14.9209371038,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"34","GENX2","               34_GX2_50135",24.2580474111042,"Within_Range","",138.957351198872,"Within_Range","",8.9013768467,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"34","GX2","               34_GX2_50135",24.2580474111042,"Within_Range","",138.957351198872,"Within_Range","",8.9013768467,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"35","GENX2","               35_GX2_50281",40.1690860885839,"Within_Range","",274.941805359661,"Within_Range","",17.612289409,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"35","GX2","               35_GX2_50281",40.1690860885839,"Within_Range","",274.941805359661,"Within_Range","",17.612289409,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"36","GENX2","               36_GX2_50201",22.0328477854024,"Within_Range","",165.176928067701,"Within_Range","",10.5809544347,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"36","GX2","               36_GX2_50201",22.0328477854024,"Within_Range","",165.176928067701,"Within_Range","",10.5809544347,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"37","GENX2","               37_GX2_50212",25.9870149719276,"Within_Range","",185.145038081805,"Within_Range","",11.8600746212,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"37","GX2","               37_GX2_50212",25.9870149719276,"Within_Range","",185.145038081805,"Within_Range","",11.8600746212,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"38","GENX2","               38_GX2_50080",23.3094915782907,"Within_Range","",134.467196050776,"Within_Range","",8.6137458147,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"38","GX2","               38_GX2_50080",23.3094915782907,"Within_Range","",134.467196050776,"Within_Range","",8.6137458147,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"39","GENX2","               39_GX2_50076",23.7739800374298,"Within_Range","",137.092885754584,"Within_Range","",8.7819426396,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"39","GX2","               39_GX2_50076",23.7739800374298,"Within_Range","",137.092885754584,"Within_Range","",8.7819426396,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"40","GENX2","               40_GX2_50269",26.4506924516531,"Within_Range","",146.139935119887,"Within_Range","",9.3614798849,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"40","GX2","               40_GX2_50269",26.4506924516531,"Within_Range","",146.139935119887,"Within_Range","",9.3614798849,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"41","GENX2","               41_GX2_50141",22.8313661883968,"Within_Range","",156.475021156559,"Within_Range","",10.0235263765,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"41","GX2","               41_GX2_50141",22.8313661883968,"Within_Range","",156.475021156559,"Within_Range","",10.0235263765,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"42","GENX2","               42_GX2_50148",42.4162227074236,"Within_Range","",258.007063469676,"Within_Range","",16.5274811728,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"42","GX2","               42_GX2_50148",42.4162227074236,"Within_Range","",258.007063469676,"Within_Range","",16.5274811728,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"43","GENX2","               43_GX2_50036",22.4752152214598,"Within_Range","",116.229689703808,"Within_Range","",7.4454848975,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"43","GX2","               43_GX2_50036",22.4752152214598,"Within_Range","",116.229689703808,"Within_Range","",7.4454848975,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"44","GENX2","               44_GX2_50254",0.374656893325016,"Within_Range","",76.2287108603667,"Within_Range","",4.8830961946,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"44","GX2","               44_GX2_50254",0.374656893325016,"Within_Range","",76.2287108603667,"Within_Range","",4.8830961946,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"45","GENX2","               45_GX2_50023",17.7487772925764,"Within_Range","",92.8207672778561,"Within_Range","",5.9459526334,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"45","GX2","               45_GX2_50023",17.7487772925764,"Within_Range","",92.8207672778561,"Within_Range","",5.9459526334,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"46","GENX2","               46_GX2_50099",14.7725171553337,"Within_Range","",83.0104203102962,"Within_Range","",5.3175199558,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"46","GX2","               46_GX2_50099",14.7725171553337,"Within_Range","",83.0104203102962,"Within_Range","",5.3175199558,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"47","GENX2","               47_GX2_50198",30.1718808484092,"Within_Range","",173.056936530324,"Within_Range","",11.0857331988,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"47","GX2","               47_GX2_50198",30.1718808484092,"Within_Range","",173.056936530324,"Within_Range","",11.0857331988,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"48","GENX2","               48_GX2_50130",12.4444354335621,"Within_Range","",110.756626234133,"Within_Range","",7.0948905768,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"48","GX2","               48_GX2_50130",12.4444354335621,"Within_Range","",110.756626234133,"Within_Range","",7.0948905768,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"49","GENX2","               49_GX2_50093",17.9225046787274,"Within_Range","",98.635610719323,"Within_Range","",6.3184407468,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"49","GX2","               49_GX2_50093",17.9225046787274,"Within_Range","",98.635610719323,"Within_Range","",6.3184407468,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"50","GENX2","               50_GX2_50235",31.2829600748596,"Within_Range","",203.617799717913,"Within_Range","",13.043405557,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"50","GX2","               50_GX2_50235",31.2829600748596,"Within_Range","",203.617799717913,"Within_Range","",13.043405557,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"51","GENX2","               51_GX2_50200",35.1579507174049,"Within_Range","",230.336084626234,"Within_Range","",14.7549294594,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"51","GX2","               51_GX2_50200",35.1579507174049,"Within_Range","",230.336084626234,"Within_Range","",14.7549294594,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"52","GENX2","               52_GX2_50128",20.8350717404866,"Within_Range","",205.316891396333,"Within_Range","",13.1522462266,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"52","GX2","               52_GX2_50128",20.8350717404866,"Within_Range","",205.316891396333,"Within_Range","",13.1522462266,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"53","GENX2","               53_GX2_50215",29.2950093574548,"Within_Range","",154.515557122708,"Within_Range","",9.8980067355,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"53","GX2","               53_GX2_50215",29.2950093574548,"Within_Range","",154.515557122708,"Within_Range","",9.8980067355,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"54","GENX2","               54_GX2_50246",23.2880817217717,"Within_Range","",165.178544428773,"Within_Range","",10.5810579758,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"54","GX2","               54_GX2_50246",23.2880817217717,"Within_Range","",165.178544428773,"Within_Range","",10.5810579758,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"55","GENX2","               55_GX2_50276",17.3411915159077,"Within_Range","",107.355619181946,"Within_Range","",6.8770283569,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"55","GX2","               55_GX2_50276",17.3411915159077,"Within_Range","",107.355619181946,"Within_Range","",6.8770283569,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"56","GENX2","               56_GX2_50177",15.4993044291953,"Within_Range","",136.5976022567,"Within_Range","",8.750215695,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"56","GX2","               56_GX2_50177",15.4993044291953,"Within_Range","",136.5976022567,"Within_Range","",8.750215695,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"57","GENX2","               57_GX2_50140",4.14001871490954,"Within_Range","",82.4598589562764,"Within_Range","",5.282252014,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"57","GX2","               57_GX2_50140",4.14001871490954,"Within_Range","",82.4598589562764,"Within_Range","",5.282252014,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"58","GENX2","               58_GX2_50175",0.132239550842171,"Within_Range","",73.2861382228491,"Within_Range","",4.6946004352,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"58","GX2","               58_GX2_50175",0.132239550842171,"Within_Range","",73.2861382228491,"Within_Range","",4.6946004352,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"59","GENX2","               59_GX2_50262",18.0933094198378,"Within_Range","",116.840939351199,"Within_Range","",7.4846404191,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"59","GX2","               59_GX2_50262",18.0933094198378,"Within_Range","",116.840939351199,"Within_Range","",7.4846404191,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"60","GENX2","               60_GX2_50194",36.4323268870867,"Within_Range","",215.432062059238,"Within_Range","",13.8002053462,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"60","GX2","               60_GX2_50194",36.4323268870867,"Within_Range","",215.432062059238,"Within_Range","",13.8002053462,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"61","GENX2","               61_GX2_50231",29.6856674984404,"Within_Range","",176.025878702398,"Within_Range","",11.2759181418,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"61","GX2","               61_GX2_50231",29.6856674984404,"Within_Range","",176.025878702398,"Within_Range","",11.2759181418,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"62","GENX2","               62_GX2_50284",33.788864628821,"Within_Range","",218.334795486601,"Within_Range","",13.9861490795,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"62","GX2","               62_GX2_50284",33.788864628821,"Within_Range","",218.334795486601,"Within_Range","",13.9861490795,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"63","GENX2","               63_GX2_50182",8.2233094198378,"Within_Range","",110.871359661495,"Within_Range","",7.1022401879,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"63","GX2","               63_GX2_50182",8.2233094198378,"Within_Range","",110.871359661495,"Within_Range","",7.1022401879,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"64","GENX2","               64_GX2_50154",16.5352339363693,"Within_Range","",115.320631875882,"Within_Range","",7.3872523348,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"64","GX2","               64_GX2_50154",16.5352339363693,"Within_Range","",115.320631875882,"Within_Range","",7.3872523348,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"65","GENX2","               65_GX2_50293",13.5254585152838,"Within_Range","",113.957873060649,"Within_Range","",7.2999565262,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"65","GX2","               65_GX2_50293",13.5254585152838,"Within_Range","",113.957873060649,"Within_Range","",7.2999565262,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"66","GENX2","               66_GX2_50230",30.2372738615097,"Within_Range","",174.509001410437,"Within_Range","",11.1787497887,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"66","GX2","               66_GX2_50230",30.2372738615097,"Within_Range","",174.509001410437,"Within_Range","",11.1787497887,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"67","GENX2","               67_GX2_50221",16.8221553337492,"Within_Range","",120.372922425952,"Within_Range","",7.7108927207,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"67","GX2","               67_GX2_50221",16.8221553337492,"Within_Range","",120.372922425952,"Within_Range","",7.7108927207,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"68","GENX2","               68_GX2_50286",34.0485683094198,"Within_Range","",259.451322990127,"Within_Range","",16.6199977658,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"68","GX2","               68_GX2_50286",34.0485683094198,"Within_Range","",259.451322990127,"Within_Range","",16.6199977658,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"69","GENX2","               69_GX2_50278",34.285068621335,"Within_Range","",222.720860366714,"Within_Range","",14.2671122815,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"69","GX2","               69_GX2_50278",34.285068621335,"Within_Range","",222.720860366714,"Within_Range","",14.2671122815,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"70","GENX2","               70_GX2_50265",20.9559950093575,"Within_Range","",141.881452750353,"Within_Range","",9.0886893825,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"70","GX2","               70_GX2_50265",20.9559950093575,"Within_Range","",141.881452750353,"Within_Range","",9.0886893825,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"71","GENX2","               71_GX2_50071",11.9991578290705,"Within_Range","",71.1013878702398,"Within_Range","",4.5546493694,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"71","GX2","               71_GX2_50071",11.9991578290705,"Within_Range","",71.1013878702398,"Within_Range","",4.5546493694,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"72","GENX2","               72_GX2_50121",0.0773424828446662,"Within_Range","",84.1219379407616,"Within_Range","",5.3887217189,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"72","GX2","               72_GX2_50121",0.0773424828446662,"Within_Range","",84.1219379407616,"Within_Range","",5.3887217189,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"73","GENX2","               73_GX2_50184",10.685258889582,"Within_Range","",70.2578110014104,"Within_Range","",4.5006113958,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"73","GX2","               73_GX2_50184",10.685258889582,"Within_Range","",70.2578110014104,"Within_Range","",4.5006113958,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"74","GENX2","               74_GX2_50136",19.6870149719276,"Within_Range","",229.443923836389,"Within_Range","",14.6977792897,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"74","GX2","               74_GX2_50136",19.6870149719276,"Within_Range","",229.443923836389,"Within_Range","",14.6977792897,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"75","GENX2","               75_GX2_50226",20.5886462882096,"Within_Range","",124.714016925247,"Within_Range","",7.9889752033,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"75","GX2","               75_GX2_50226",20.5886462882096,"Within_Range","",124.714016925247,"Within_Range","",7.9889752033,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"76","GENX2","               76_GX2_50159",33.3664036182158,"Within_Range","",208.125080394922,"Within_Range","",13.3321336187,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"76","GX2","               76_GX2_50159",33.3664036182158,"Within_Range","",208.125080394922,"Within_Range","",13.3321336187,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"77","GENX2","               77_GX2_50243",27.2016593886463,"Within_Range","",182.654688293371,"Within_Range","",11.7005474209,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"77","GX2","               77_GX2_50243",27.2016593886463,"Within_Range","",182.654688293371,"Within_Range","",11.7005474209,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"78","GENX2","               78_GX2_50134",24.3410698689956,"Within_Range","",138.853923836389,"Within_Range","",8.8947514812,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"78","GX2","               78_GX2_50134",24.3410698689956,"Within_Range","",138.853923836389,"Within_Range","",8.8947514812,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"79","GENX2","               79_GX2_50277",1.2638178415471,"Within_Range","",79.8145754583921,"Within_Range","",5.1128000469,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"79","GX2","               79_GX2_50277",1.2638178415471,"Within_Range","",79.8145754583921,"Within_Range","",5.1128000469,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "
-"80","GENX2","               80_GX2_50206",34.532217716781,"Within_Range","",231.756434414669,"Within_Range","",14.8459144392,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit (22 ppm vs the 20 ppm detection limit)
+"80","GX2","               80_GX2_50206",34.532217716781,"Within_Range","",231.756434414669,"Within_Range","",14.8459144392,"2025-09-05","Sample 7_GX2_50151 was above the SO4 detection limit 
+  (22 ppm vs the 20 ppm detection limit)
   "

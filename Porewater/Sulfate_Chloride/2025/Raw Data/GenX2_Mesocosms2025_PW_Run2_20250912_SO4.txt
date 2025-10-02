@@ -110,23 +110,23 @@ No.	Selected Peak:		min	µg/mL	%	µS*min	µS
 106	               144_GX2_50050	Unknown	4.490 	659.7232 	9.18 	5.0580 	31.99 
 107	               145_GX2_50279	Unknown	4.477 	981.4198 	9.10 	7.5244 	46.52 
 108	               146_GX2_50096	Unknown	4.480 	827.3211 	8.82 	6.3430 	39.61 
-109	               147_PoMP3_SC_5	Unknown	4.490 	649.6913 	10.91 	4.9811 	31.52 
-110	               148_PoMP2B_SC_2	Unknown	4.497 	549.2835 	8.18 	4.2113 	26.81 
-111	               149_PoMP3_SC_2	Unknown	4.487 	682.3511 	10.43 	5.2315 	33.05 
-112	               149_PoMP3_SC_2_DUP	Unknown	4.483 	709.1637 	8.00 	5.4371 	34.22 
-113	               150_PoMP2B_SC_5	Unknown	4.493 	484.9512 	7.23 	3.7181 	23.77 
-114	               150_PoMP2B_SC_5_SPIKE	Spiked	4.487 	672.6517 	9.91 	5.1572 	32.53 
+109	               147_PoMP3_SC5	Unknown	4.490 	649.6913 	10.91 	4.9811 	31.52 
+110	               148_PoMP2B_SC2	Unknown	4.497 	549.2835 	8.18 	4.2113 	26.81 
+111	               149_PoMP3_SC2	Unknown	4.487 	682.3511 	10.43 	5.2315 	33.05 
+112	               149_PoMP3_SC2_DUP	Unknown	4.483 	709.1637 	8.00 	5.4371 	34.22 
+113	               150_PoMP2B_SC5	Unknown	4.493 	484.9512 	7.23 	3.7181 	23.77 
+114	               150_PoMP2B_SC5_SPIKE	Spiked	4.487 	672.6517 	9.91 	5.1572 	32.53 
 115	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
 116	Standard 3	Check Standard	4.510 	2.0162 	7.02 	1.7004 	11.19 
 117	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
-118	               151_PoMP3_SC_3	Unknown	4.490 	712.2502 	11.04 	5.4607 	34.40 
-119	               152_PoMP2B_SC_3	Unknown	4.493 	534.7586 	7.80 	4.0999 	26.09 
-120	               153_PoMP2B_SC_4	Unknown	4.497 	485.7140 	7.32 	3.7239 	23.81 
-121	               154_PoMP3_SC_4	Unknown	4.487 	664.1442 	9.12 	5.0919 	32.20 
-122	               155_PoMP3_SC_1	Unknown	4.490 	658.5780 	9.10 	5.0492 	31.91 
-123	               155_PoMP3_SC_1_DUP	Unknown	4.490 	661.5505 	9.18 	5.0720 	32.07 
-124	               156_PoMP2B_SC_1	Unknown	4.497 	497.8884 	7.27 	3.8173 	24.37 
-125	               156_PoMP2B_SC_1_SPIKE	Spiked	4.487 	683.7480 	9.87 	5.2422 	33.05 
+118	               151_PoMP3_SC3	Unknown	4.490 	712.2502 	11.04 	5.4607 	34.40 
+119	               152_PoMP2B_SC3	Unknown	4.493 	534.7586 	7.80 	4.0999 	26.09 
+120	               153_PoMP2B_SC4	Unknown	4.497 	485.7140 	7.32 	3.7239 	23.81 
+121	               154_PoMP3_SC4	Unknown	4.487 	664.1442 	9.12 	5.0919 	32.20 
+122	               155_PoMP3_SC1	Unknown	4.490 	658.5780 	9.10 	5.0492 	31.91 
+123	               155_PoMP3_SC1_DUP	Unknown	4.490 	661.5505 	9.18 	5.0720 	32.07 
+124	               156_PoMP2B_SC1	Unknown	4.497 	497.8884 	7.27 	3.8173 	24.37 
+125	               156_PoMP2B_SC1_SPIKE	Spiked	4.487 	683.7480 	9.87 	5.2422 	33.05 
 126	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.
 127	Standard 4	Check Standard	4.467 	10.6521 	7.22 	8.9836 	54.69 
 128	Lab Blank	Unknown	n.a.	n.a.	n.a.	n.a.	n.a.

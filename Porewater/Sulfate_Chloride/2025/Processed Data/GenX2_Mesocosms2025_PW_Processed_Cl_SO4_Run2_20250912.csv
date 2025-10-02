@@ -1,0 +1,232 @@
+"","Project","Sample_ID","SO4_Conc_mM","SO4_Conc_flag","SO4_QAQC_flag","Cl_Conc_mM","Cl_Conc_flag","Cl_QAQC_flag","salinity","Analysis_rundate","Run_notes"
+"1","GX2","               81_GX2_50042",23.763247036806,"Within_Range","",166.854541607898,"Within_Range","",10.6884192545,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"2","GX2","               82_GX2_50263",29.0906768558952,"Within_Range","",191.828688293371,"Within_Range","",12.288216889,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"3","GX2","               83_GX2_50157",17.6437928883344,"Within_Range","",107.956301833568,"Within_Range","",6.9155069763,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"4","GX2","               84_GX2_50075",25.0902432938241,"Within_Range","",160.678600846262,"Within_Range","",10.2927999148,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"5","GX2","               85_GX2_50204",31.9424828446662,"Within_Range","",202.82058674189,"Within_Range","",12.9923375686,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"6","GX2","               86_GX2_50146",29.0978852152215,"Within_Range","",184.081303244006,"Within_Range","",11.7919337354,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"7","GX2","               87_GX2_50017",25.5705614472863,"Within_Range","",142.319071932299,"Within_Range","",9.1167224577,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"8","GX2","               88_GX2_50272",3.21924204616344,"Within_Range","",101.32005077574,"Within_Range","",6.4904010106,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"9","GX2","               89_GX2_50191",28.8626887086712,"Within_Range","",181.78797461213,"Within_Range","",11.6450273459,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"10","GX2","               90_GX2_50003",17.5347192763568,"Within_Range","",96.2596614950635,"Within_Range","",6.166241835,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"11","GX2","               90_GX2_50003_SPK",23.0767186525265,"Within_Range","",90.3276361071932,"Within_Range","",5.7862472629,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"12","GX2","               91_GX2_50051",21.9169525888958,"Within_Range","",77.7924400564175,"Within_Range","",4.983265794,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"13","GX2","               92_GX2_50147",5.77742669993762,"Within_Range","",110.904764456982,"Within_Range","",7.1043800373,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"14","GX2","               93_GX2_50245",21.6723237679351,"Within_Range","",172.16234696756,"Within_Range","",11.0284274464,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"15","GX2","               94_GX2_50197",22.9206674984404,"Within_Range","",245.949131170663,"Within_Range","",15.7550723369,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"16","GX2","               95_GX2_50274",19.3740642545228,"Within_Range","",172.292033850494,"Within_Range","",11.0367349482,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"17","GX2","               96_GX2_50117",25.8052932002495,"Within_Range","",112.945796897038,"Within_Range","",7.2351247995,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"18","GX2","               97_GX2_50193",21.2368059887711,"Within_Range","",224.877514809591,"Within_Range","",14.4052635753,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"19","GX2","               98_GX2_50086",23.8910355583281,"Within_Range","",148.71434696756,"Within_Range","",9.5263919452,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"20","GX2","               99_GX2_50188",0.123153462258266,"Within_Range","",90.4598448519041,"Within_Range","",5.7947163105,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"21","GX2","               100_GX2_50164",5.93026512788521,"Within_Range","",115.857870239774,"Within_Range","",7.4216668305,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"22","GX2","               101_GX2_50205",29.5703805364941,"Within_Range","",229.644358251058,"Within_Range","",14.7106187475,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"23","GX2","               102_GX2_50180",20.9087024329382,"Within_Range","",157.145294781382,"Within_Range","",10.0664628649,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"24","GX2","               103_GX2_50210",25.5458359326263,"Within_Range","",173.685492242595,"Within_Range","",11.1259973149,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"25","GX2","               104_GX2_50282",20.6955053025577,"Within_Range","",161.107351198872,"Within_Range","",10.3202648692,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"26","GX2","               105_GX2_50049",19.2642358078603,"Within_Range","",107.632110014104,"Within_Range","",6.8947398481,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"27","GX2","               106_GX2_50126",28.6032501559576,"Within_Range","",181.251847672779,"Within_Range","",11.610684046,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"28","GX2","               107_GX2_50033",24.586699937617,"Within_Range","",131.516341325811,"Within_Range","",8.4247195201,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"29","GX2","               108_GX2_50252",30.901288209607,"Within_Range","",206.321258110014,"Within_Range","",13.2165841002,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"30","GX2","               109_GX2_50270",13.1248222083593,"Within_Range","",99.4093709449929,"Within_Range","",6.3680063954,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"31","GX2","               110_GX2_50006",20.9363630692452,"Within_Range","",109.972423131171,"Within_Range","",7.0446559768,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"32","GX2","               111_GX2_50106",14.2770336868372,"Within_Range","",91.3274781382228,"Within_Range","",5.8502952937,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"33","GX2","               112_GX2_50067",20.7713474734872,"Within_Range","",135.584987306065,"Within_Range","",8.6853494546,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"34","GX2","               113_GX2_50189",23.5521802869619,"Within_Range","",144.43877574048,"Within_Range","",9.2525067622,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"35","GX2","               114_GX2_50300",35.6011041796631,"Within_Range","",217.50946403385,"Within_Range","",13.9332798735,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"36","GX2","               115_GX2_50214",26.2831191515908,"Within_Range","",172.963506346968,"Within_Range","",11.0797482341,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"37","GX2","               116_GX2_50090",22.5005208983157,"Within_Range","",124.395365303244,"Within_Range","",7.9685629699,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"38","GX2","               117_GX2_50248",32.4819775421085,"Within_Range","",212.754166431594,"Within_Range","",13.6286643064,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"39","GX2","               118_GX2_50283",8.83737055520898,"Within_Range","",98.2427334273625,"Within_Range","",6.2932737543,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"40","GX2","               119_GX2_50066",14.7548596381784,"Within_Range","",71.2189590973202,"Within_Range","",4.5621807647,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"41","GX2","               120_GX2_50142",24.3634123518403,"Within_Range","",204.261669957687,"Within_Range","",13.0846506934,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"42","GX2","               121_GX2_50271",25.8092732376793,"Within_Range","",168.65967842031,"Within_Range","",10.8040529792,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"43","GX2","               122_GX2_50218",11.5669276356831,"Within_Range","",98.7225049365303,"Within_Range","",6.3240070296,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"44","GX2","               123_GX2_50207",35.1478103555833,"Within_Range","",245.304064880113,"Within_Range","",15.7137505837,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"45","GX2","               124_GX2_50149",21.4811072988147,"Within_Range","",175.777548660085,"Within_Range","",11.2600105787,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"46","GX2","               125_GX2_50298l",25.635015595758,"Within_Range","",117.106708039492,"Within_Range","",7.5016650696,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"47","GX2","               126_GX2_50240",23.7715034310668,"Within_Range","",135.287509167842,"Within_Range","",8.6662935554,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"48","GX2","               127_GX2_50104",15.4839769182782,"Within_Range","",92.9460310296192,"Within_Range","",5.9539767976,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"49","GX2","               128_GX2_50168",10.1079975046787,"Within_Range","",78.0135007052186,"Within_Range","",4.9974265302,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"50","GX2","               129_GX2_50241",33.1603742981909,"Within_Range","",234.425777150917,"Within_Range","",15.0169075966,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"51","GX2","               130_GX2_50163",21.3707517155334,"Within_Range","",154.13146403385,"Within_Range","",9.8734024428,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"52","GX2","               131_GX2_50083",18.6686462882096,"Within_Range","",109.938645980254,"Within_Range","",7.042492275,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"53","GX2","               132_GX2_50258",27.8708858390518,"Within_Range","",186.839875881523,"Within_Range","",11.9686427952,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"54","GX2","               133_GX2_50171",15.8145134123518,"Within_Range","",143.727935119887,"Within_Range","",9.2069716271,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"55","GX2","               134_GX2_50291",26.7768839675608,"Within_Range","",241.446829337094,"Within_Range","",15.4666632107,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"56","GX2","               135_GX2_50228",28.9523300062383,"Within_Range","",193.678442877292,"Within_Range","",12.4067087456,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"57","GX2","               136_GX2_50111",26.0224859638178,"Within_Range","",157.970778561354,"Within_Range","",10.1193418287,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"58","GX2","               137_GX2_50063",23.8000748596382,"Within_Range","",127.527692524683,"Within_Range","",8.1692140569,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"59","GX2","               138_GX2_50222",23.9559669369931,"Within_Range","",156.978629055007,"Within_Range","",10.0557865668,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"60","GX2","               139_GX2_50084",17.4057891453525,"Within_Range","",104.304039492243,"Within_Range","",6.6815498074,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"61","GX2","               140_GX2_50238",19.5407860262009,"Within_Range","",149.378490832158,"Within_Range","",9.5689357725,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"62","GX2","               141_GX2_50065",26.987286338116,"Within_Range","",184.191952045134,"Within_Range","",11.7990216929,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"63","GX2","               142_GX2_50139",24.8703337492202,"Within_Range","",179.538891396333,"Within_Range","",11.5009552359,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"64","GX2","               143_GX2_50094",1.52204304429195,"Within_Range","",47.974245416079,"Within_Range","",3.073167409,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"65","GX2","               144_GX2_50050",20.577766687461,"Within_Range","",119.974499294781,"Within_Range","",7.685370472,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"66","GX2","               145_GX2_50279",30.6119713038054,"Within_Range","",187.222208744711,"Within_Range","",11.9931343311,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"67","GX2","               146_GX2_50096",25.8053992514036,"Within_Range","",161.36554583921,"Within_Range","",10.3368043402,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"68","PoMP3","               147_PoMP3_SC5",20.2648565190268,"Within_Range","",98.1146741889986,"Within_Range","",6.2850705164,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"69","PoMP2B","               148_PoMP2B_SC2",17.1329850280724,"Within_Range","",110.910905500705,"Within_Range","",7.1047734212,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"70","PoMP3","               149_PoMP3_SC2",21.2835651902682,"Within_Range","",109.896047954866,"Within_Range","",7.0397635243,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"71","PoMP2B","               150_PoMP2B_SC5",15.1263630692452,"Within_Range","",110.998143864598,"Within_Range","",7.1103617494,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"72","PoMP3","               151_PoMP3_SC3",22.2161634435434,"Within_Range","",109.714358251058,"Within_Range","",7.028124818,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"73","PoMP2B","               152_PoMP2B_SC3",16.679931378665,"Within_Range","",113.686459802539,"Within_Range","",7.282570295,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"74","PoMP2B","               153_PoMP2B_SC4",15.1501559575795,"Within_Range","",107.909277856135,"Within_Range","",6.9124947073,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"75","PoMP3","               154_PoMP3_SC4",20.7156643792888,"Within_Range","",124.550205923836,"Within_Range","",7.9784817736,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"76","PoMP3","               155_PoMP3_SC1",20.5420461634435,"Within_Range","",121.739684062059,"Within_Range","",7.7984449426,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
+"77","PoMP2B","               156_PoMP2B_SC1",15.5298939488459,"Within_Range","",117.54922425952,"Within_Range","",7.53001184,"2025-09-12","Chk std 1 was slightly lower than the expected concentration. 
+  One dup (149_PoMP3_SC2) had a high CV.
+  "
